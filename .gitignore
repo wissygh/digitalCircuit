@@ -7,9 +7,11 @@ project/build.properties
 project/project
 project/target
 target/
+
 # test
 test_run_dir/
 verdiLog
+emitVerilog
 
 .bsp/
 .idea/
@@ -17,6 +19,7 @@ verdiLog
 .vscode/
 
 *.sv
+*.v
 *.in
 *.dot
 *.fir
